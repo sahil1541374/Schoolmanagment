@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002289406965",
+    "firebase_url": "https://sahilmtl-c62db.firebaseio.com",
+    "project_id": "sahilmtl-c62db",
+    "storage_bucket": "sahilmtl-c62db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002289406965:android:3126f9dab8b424327376bc",
+        "android_client_info": {
+          "package_name": "com.example.sahilmtl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002289406965-qeo3ccnd1fhj72vpcm95ibetr7hn47q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahilmtl",
+            "certificate_hash": "7caeb87e9fe300c059d1c56743d53a3fe33eb13a"
+          }
+        },
+        {
+          "client_id": "1002289406965-ficj1v3iie5hifvj9d0p3fgkb871jsuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHyB7AJ4rejGYZzimWyHUK12d5orFpQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002289406965-ficj1v3iie5hifvj9d0p3fgkb871jsuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
